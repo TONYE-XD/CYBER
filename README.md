@@ -2,7 +2,7 @@
 # CYBER
 
 ##THANKS TO 🔰MR FINE🔰
-INDONESIA FB IDZ CRACK
+FREE FB IDZ CRACK
 
 
 <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey+%F0%9F%91%8B,I%27m+•TONYE☆.....;THIS+TOOL+CAN+BE+USED....;TO+CRACK+INDONESIA+FB+IDZ....;!&size=25"> 
