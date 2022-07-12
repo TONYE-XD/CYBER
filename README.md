@@ -21,7 +21,7 @@ FREE FB IDZ CRACK
 
 #### Install script on Termux
 ```bash
-$ rm -rf CLONE
+$ rm -rf CYBER
 $ git clone https://github.com/TONYE-XD/CYBER
 ```
 #### Run script
