@@ -27,7 +27,7 @@ $ git clone https://github.com/TONYE-XD/CYBER
 #### Run script
 ```bash
 $ cd CYBER
-$ python 
+$ python CYBER.py
 ```
 #### MY SOCIAL MEDIA
 
